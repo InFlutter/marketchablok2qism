@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCloXf7OrGQR3N5nfjAXUPpn--XTru3o7U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>831366721192</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.verySimpleOnlineShopCubit</string>
+	<key>PROJECT_ID</key>
+	<string>magazincha-4d6c6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>magazincha-4d6c6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:831366721192:ios:4e990e964e0d5262c99c9d</string>
+	<key>DATABASE_URL</key>
+	<string>https://magazincha-4d6c6-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "831366721192",
+    "firebase_url": "https://magazincha-4d6c6-default-rtdb.firebaseio.com",
+    "project_id": "magazincha-4d6c6",
+    "storage_bucket": "magazincha-4d6c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831366721192:android:5c98807d54fdb76ac99c9d",
+        "android_client_info": {
+          "package_name": "com.example.very_simple_online_shop_cubit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChekPAkpC_sr1LQF0bSXC8ob2HuhydtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
